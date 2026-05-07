@@ -18,8 +18,6 @@
 
 
 ### 3. Inference/Generation
-> [dl-midterm-generation-inference-kaggle.ipynb](https://github.com/tk2558/Deep-Learning-Text-to-SVG-Generation/blob/main/dl-midterm-generation-inference-kaggle.ipynb)
-
 > This section focuses on generating outputs with the model
 
 > Make sure notebook has access to test.csv as an input if you want to test the model against it and access to a HuggingFace Token to use the fine-tuned model!
